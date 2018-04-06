@@ -1,4 +1,4 @@
-# Impressora 3D Brasil (Em construção.)
+# Impressora 3D Brasil (Em construção)
 
 Este repositório foi criado com o objetivo de reunir links de lojas de filamentos e/ou peças, tutoriais, dicas ou qualquer outro conteúdo que seja interessante para profissionais e amantes do mundo da impressão 3D.
 
