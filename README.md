@@ -12,7 +12,7 @@ Esta ideia é originalmente vinda de grupos de Whatsapp e compartilhada no grupo
 2. <a href="https://github.com/rafaelcruzpb/Impressora3DBrasil/blob/master/README.md" target="_blank">Clique aqui</a> para acessar o arquivo a ser editado.
 3. Logo acima do conteudo da pagina, no lado direito e ao lado do botão **History**, clique na caneta de edição *Edit this file*.
 4. Edite o arquivo.
-5. Ao terminar a edição, desça até o fim da página, descreva sua edição no primeiro campo de texto abaixo de **Propose file changes**
+5. Ao terminar a edição, desça até o fim da página, descreva sua edição no primeiro campo de texto abaixo de **Propose file changes** (por exemplo: "Adicionado loja3d.com")
 6. Clique no botão **Propose file change**
 7. Clique no botão **Create pull request**
 8. Confirme clicando no **Create pull request** novamente.
