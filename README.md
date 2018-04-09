@@ -83,6 +83,9 @@ TO ADD...
 
   TO ADD...
 
+## Software
+
+* [Repetier Host](https://www.repetier.com/) - Crie servidores para gerenciar suas impressoras através da rede local/Internet, envie impressões e comande tudo através de um navegador de internet.
 
 ## Solução de Problemas
 
