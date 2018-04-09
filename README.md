@@ -38,7 +38,7 @@ TO ADD...
   * [3Decia](https://www.3decia.com.br/)
   * [3dfila](https://3dfila.com.br/) - ABS (Premium+, Premium+ Cristal), Flexível, PLA, PETG-XT, Titan-HT
   * [3dfill](http://3dfill.com.br/)
-  * [3dlab](https://3dlab.com.br/)
+  * [3dlab](https://3dlab.com.br/) - PLA, ABS Premium, PETG, WOOD, Flexível, HIPS
   * [3DLopes](https://3dlopes.com/)
   * [3DMachine](https://3d-machine.lojaintegrada.com.br/)
   * [3DOn](http://www.3don.net.br/)
