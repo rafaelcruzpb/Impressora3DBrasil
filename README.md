@@ -34,7 +34,7 @@ TO ADD...
 ## Filamentos
 
   * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
-  * [3dcog](http://www.3dcogloja.com.br/)
+  * [3dcog](http://www.3dcogloja.com.br/) - ABS
   * [3Decia](https://www.3decia.com.br/)
   * [3dfila](https://3dfila.com.br/)
   * [3dfill](http://3dfill.com.br/)
