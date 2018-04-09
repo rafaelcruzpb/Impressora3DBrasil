@@ -36,7 +36,7 @@ TO ADD...
   * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
   * [3dcog](http://www.3dcogloja.com.br/) - ABS
   * [3Decia](https://www.3decia.com.br/)
-  * [3dfila](https://3dfila.com.br/)
+  * [3dfila](https://3dfila.com.br/) - ABS (Premium+, Premium+ Cristal), Flexível, PLA, PETG-XT, Titan-HT
   * [3dfill](http://3dfill.com.br/)
   * [3dlab](https://3dlab.com.br/)
   * [3DLopes](https://3dlopes.com/)
