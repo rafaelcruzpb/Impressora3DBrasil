@@ -24,6 +24,7 @@ Sumário
    * [Impressoras 3D](#impressoras-3d)
    * [Filamentos](#filamentos)
    * [Componentes/Peças](#componentes/peças)
+   * [Software](#software)
    * [Solução de Problemas](#solução-de-problemas)
 
 ## Impressoras 3D
