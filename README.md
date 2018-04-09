@@ -86,7 +86,7 @@ TO ADD...
 
 ## Solução de Problemas
 
-  * [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
+  * [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - Guia para solução de vários problemas comuns que ocorrem com impressoras 3D. Ótimo guia principalmente para iniciantes.
   
 
 
