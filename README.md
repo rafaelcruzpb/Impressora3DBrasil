@@ -42,8 +42,8 @@ TO ADD...
   * [3DLopes](https://3dlopes.com/) - PLA, ABS Premium, Tritan HT, PETG-XT, Flexível
   * [3DMachine](https://3d-machine.lojaintegrada.com.br/) - PLA, ABS
   * [3DOn](http://www.3don.net.br/) - ABS
-  * [3dprocer](https://3dprocer.com.br/)
-  * [3dx](http://www.3dxfilamentos.com.br/)
+  * [3dprocer](https://3dprocer.com.br/) - ABS, PLA, PETG, TPU, HIPS
+  * [3dx](http://www.3dxfilamentos.com.br/) - ABS, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato
   * [ABC3D](http://www.abc3d.com.br/)
   * [B3d](https://www.b3d.ind.br/)
   * [Cliever](https://www.cliever.com/)
