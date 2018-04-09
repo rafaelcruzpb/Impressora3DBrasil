@@ -49,7 +49,6 @@ TO ADD...
   * [Cliever](https://www.cliever.com/)
   * [F3db](https://www.filamentos3dbrasil.com.br/)
   * [Faz3d](https://www.faz3d.com.br/)
-  * [Felix printer](adicionar link)
   * [Filamentosdrg](adicionar link)
   * [Gravaplast](https://lista.mercadolivre.com.br/_CustId_193180928)
   * [Gsimp](http://gsimp.com.br/)
