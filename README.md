@@ -86,7 +86,7 @@ TO ADD...
 
 ## Software
 
-* [Repetier Host](https://www.repetier.com/) - Crie servidores para gerenciar suas impressoras através da rede local/Internet, envie impressões e comande tudo através de um navegador de internet.
+* [Repetier Host](https://www.repetier.com/) - Crie servidores para gerenciar suas impressoras através da rede local/Internet, envie impressões e comande tudo através de um navegador de internet. (exclusivo para impressoras com firmware Repetier)
 
 ## Solução de Problemas
 
