@@ -86,7 +86,8 @@ TO ADD...
 
 ## Solução de Problemas
 
-  TO ADD...
+  * [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/)
+  
 
 
 
