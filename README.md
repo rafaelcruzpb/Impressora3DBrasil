@@ -44,6 +44,7 @@ TO ADD...
   * [3DMachine](https://3d-machine.lojaintegrada.com.br/) - PLA, ABS
   * [3DOn](http://www.3don.net.br/) - ABS
   * [3dprocer](https://3dprocer.com.br/) - ABS, PLA, PETG, TPU, HIPS
+  * [3dSquad](https://www.facebook.com/3DSQUAD.X/) - ABS
   * [3dx](http://www.3dxfilamentos.com.br/) - ABS, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato
   * [ABC3D](http://www.abc3d.com.br/)
   * [B3d](https://www.b3d.ind.br/)
