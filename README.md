@@ -36,9 +36,9 @@ TO ADD...
 
   * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
   * [3dcog](http://www.3dcogloja.com.br/) - ABS
-  * [3Decia](https://www.3decia.com.br/)
+  * [3Decia](https://www.3decia.com.br/) - Polysmoth, HIPS, PVA, PLA(Premium, Heat Resistence, High Speed, Long-time print), WOOD, COOPERFILL, STEELFILL, Flexível (Ninjaflex,UltraFlexx, TPU,TPA,Polyflex),PC Policarbonato, CoPa Nylon, Fibra de Carbono, PolyPropylene. 
   * [3dfila](https://3dfila.com.br/) - ABS (Premium+, Premium+ Cristal), Flexível, PLA, PETG-XT, Titan-HT
-  * [3dfill](http://3dfill.com.br/)
+  * [3dfill](http://3dfill.com.br/) - ABS Premium, Flexível, PETG, PLA
   * [3dlab](https://3dlab.com.br/) - PLA, ABS Premium, PETG, WOOD, Flexível, HIPS
   * [3DLopes](https://3dlopes.com/) - PLA, ABS Premium, Tritan HT, PETG-XT, Flexível
   * [3DMachine](https://3d-machine.lojaintegrada.com.br/) - PLA, ABS
@@ -46,8 +46,8 @@ TO ADD...
   * [3dprocer](https://3dprocer.com.br/) - ABS, PLA, PETG, TPU, HIPS
   * [3dSquad](https://www.facebook.com/3DSQUAD.X/) - ABS
   * [3dx](http://www.3dxfilamentos.com.br/) - ABS, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato
-  * [ABC3D](http://www.abc3d.com.br/)
-  * [B3d](https://www.b3d.ind.br/)
+  * [ABC3D](http://www.abc3d.com.br/) - PLA
+  * [B3d](https://www.b3d.ind.br/) - ABS Premium
   * [Cliever](https://www.cliever.com/)
   * [F3db](https://www.filamentos3dbrasil.com.br/)
   * [Faz3d](https://www.faz3d.com.br/)
