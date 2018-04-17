@@ -56,7 +56,7 @@ TO ADD...
   * [Gsimp](http://gsimp.com.br/)
   * [Gtmax3d](https://www.gtmax3d.com.br/)
   * [Impressão3DFácil](http://www.impressao3dfacil.com.br/)
-  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS
+  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS Premium, PETG
   * [ITCTERM](http://www.itcterm.com.br/impressao-3d/loja-virtual/)
   * [JWCOM](http://jwcom.mercadoshops.com.br/)
   * [Material 3D (Boaimpressão)](https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/)
