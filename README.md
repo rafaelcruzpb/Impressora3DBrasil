@@ -72,6 +72,7 @@ TO ADD...
   * [Protofast](https://protofast.mercadoshops.com.br/)
   * [Puzzles Dynamics](https://www.lojapuzzles.com.br/)
   * [RBFD](http://www.rbfd.com.br/loja/)
+  * [RBSHOPGP](https://www.rbshopgp.com.br) ABS, PLA.
   * [RepRap3D](https://www.reprap3d.com.br/)
   * [Sethi3d](https://www.sethi3d.com.br/produtos-sethi3d_)
   * [Takao](https://lista.mercadolivre.com.br/_CustId_21890632)
