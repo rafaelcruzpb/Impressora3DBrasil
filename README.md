@@ -48,40 +48,39 @@ TO ADD...
   * [3dx](http://www.3dxfilamentos.com.br/) - ABS, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato
   * [ABC3D](http://www.abc3d.com.br/) - PLA
   * [B3d](https://www.b3d.ind.br/) - ABS Premium
-  * [Cliever](https://www.cliever.com/)
-  * [F3db](https://www.filamentos3dbrasil.com.br/)
-  * [Faz3d](https://www.faz3d.com.br/)
-  * [Filamentosdrg](adicionar link)
-  * [Gravaplast](https://lista.mercadolivre.com.br/_CustId_193180928)
-  * [Gsimp](http://gsimp.com.br/)
-  * [Gtmax3d](https://www.gtmax3d.com.br/)
-  * [Impressão3DFácil](http://www.impressao3dfacil.com.br/)
-  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS Premium, PETG
-  * [ITCTERM](http://www.itcterm.com.br/impressao-3d/loja-virtual/)
-  * [JWCOM](http://jwcom.mercadoshops.com.br/)
-  * [Material 3D (Boaimpressão)](https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/)
-  * [MaxGeek](http://www.maxgeek.com.br/)
-  * [mgcomercialatacadista (Acccreate)](https://produto.mercadolivre.com.br/MLB-981769449-filamentos-para-impressora-3d-pla-175mm-marca-acccreate-_JM)
-  * [Monster](https://loja.monster3d.tech/Home)
-  * [Mousta](http://www.mousta.com.br/)
-  * [Movtech](https://movtech.commercesuite.com.br/)
-  * [P1 Protótipos](https://loja.p1prototipos.com.br/)
-  * [Petropolis (P3D)](https://www.loja.p3d.inf.br/)
-  * [Printalot](http://printalot.com.br/)
-  * [PrintGreen3D](https://www.printgreen.com.br/)
-  * [Protofast](https://protofast.mercadoshops.com.br/)
-  * [Puzzles Dynamics](https://www.lojapuzzles.com.br/)
-  * [RBFD](http://www.rbfd.com.br/loja/)
-  * [RBSHOPGP](https://www.rbshopgp.com.br) ABS, PLA.
-  * [RepRap3D](https://www.reprap3d.com.br/)
-  * [Sethi3d](https://www.sethi3d.com.br/produtos-sethi3d_)
-  * [Takao](https://lista.mercadolivre.com.br/_CustId_21890632)
-  * [TATO](http://tato.ind.br/)
-  * [Tec3D](https://www.tec3donline.com.br/)
-  * [Up3DBrasil](https://www.up3dbrasil.com.br/)
-  * [Versamídia](http://www.versamidia.com.br/)
-  * [Voolt3D](https://www.voolt3d.com.br/)
-  * [Zulgg Tecnologias (ESUN)](https://lista.mercadolivre.com.br/_CustId_240520377)
+  * [Cliever](https://www.cliever.com/) - ABS PLA PETG FLEX TRANSLUCIDOS  
+  * [F3db](https://www.filamentos3dbrasil.com.br/) - ABS PLA PVA WOOD  FLEX          
+  * [Faz3d](https://www.faz3d.com.br/) - ABS  PETG   HIPS TRITAN    
+  * [Gravaplast](https://lista.mercadolivre.com.br/_CustId_193180928) - ABS PLA PETG TPU   
+  * [Gsimp](http://gsimp.com.br/) - ABS TRITAN    
+  * [Gtmax3d](https://www.gtmax3d.com.br/) - ABS PLA PETG                 
+  * [Impressão3DFácil](http://www.impressao3dfacil.com.br/) -  PLA                  
+  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS Premium, PETG - ABS PLA PETG                 
+  * [ITCTERM](http://www.itcterm.com.br/impressao-3d/loja-virtual/) - ABS PLA                  
+  * [JWCOM](http://jwcom.mercadoshops.com.br/) - ABS PLA                  
+  * [Material 3D (Boaimpressão)](https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/) -  PLA                  
+  * [MaxGeek](http://www.maxgeek.com.br/) - ABS PLA PETG   HIPS  WOOD  FLEX  NYLON Fibra de Carbono PP      
+  * [mgcomercialatacadista (Acccreate)](https://produto.mercadolivre.com.br/MLB-981769449-filamentos-para-impressora-3d-pla-175mm-marca-acccreate-_JM) -  PLA                  
+  * [Monster](https://loja.monster3d.tech/Home) - ABS PLA                  
+  * [Mousta](http://www.mousta.com.br/) - ABS PLA                  
+  * [Movtech](https://movtech.commercesuite.com.br/) - ABS PLA                  
+  * [P1 Protótipos](https://loja.p1prototipos.com.br/) - ABS PLA PETG FLEX          
+  * [Petropolis (P3D)](https://www.loja.p3d.inf.br/) - 
+  * [Printalot](http://printalot.com.br/) - ABS PLA PETG FLEX          
+  * [PrintGreen3D](https://www.printgreen.com.br/) - ABS                   
+  * [Protofast](https://protofast.mercadoshops.com.br/) - ABS PLA PETG FLEX          
+  * [Puzzles Dynamics](https://www.lojapuzzles.com.br/) - ABS PLA WOOD  FLEX  NYLON        
+  * [RBFD](http://www.rbfd.com.br/loja/) - ABS PLA  ASA   PVA WOOD FLEX  NYLON        
+  * [RBSHOPGP](https://www.rbshopgp.com.br) ABS, PLA. - ABS PLA                  
+  * [RepRap3D](https://www.reprap3d.com.br/) - ABS PLA                  
+  * [Sethi3d](https://www.sethi3d.com.br/produtos-sethi3d_) - ABS PLA PETG FLEX          
+  * [Takao](https://lista.mercadolivre.com.br/_CustId_21890632) - ABS                   
+  * [TATO](http://tato.ind.br/) -  PLA                  
+  * [Tec3D](https://www.tec3donline.com.br/) - ABS                   
+  * [Up3DBrasil](https://www.up3dbrasil.com.br/) - ABS PLA PETG HIPS PVA WOOD FLEX  NYLON Fibra de Carbono SILK 
+  * [Versamídia](http://www.versamidia.com.br/) - ABS PLA PETG TPR
+  * [Voolt3D](https://www.voolt3d.com.br/) - ABS PLA PETG WOOD            
+  * [Zulgg Tecnologias (ESUN)](https://lista.mercadolivre.com.br/_CustId_240520377) - ABS PLA                  
 
 ## Componentes/Peças
 
