@@ -34,6 +34,7 @@ TO ADD...
 
 ## Filamentos
 
+  * [3d Applications](http://www.3dapplications.com.br/) - PLA, ABS Premium,  PETG, Flexível, Wood e HIPS
   * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
   * [3dcog](http://www.3dcogloja.com.br/) - ABS
   * [3Decia](https://www.3decia.com.br/) - Polysmoth, HIPS, PVA, PLA(Premium, Heat Resistence, High Speed, Long-time print), WOOD, COOPERFILL, STEELFILL, Flexível (Ninjaflex,UltraFlexx, TPU,TPA,Polyflex),PC Policarbonato, CoPa Nylon, Fibra de Carbono, PolyPropylene. 
