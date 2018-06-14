@@ -57,7 +57,8 @@ TO ADD...
   * [Gsimp](http://gsimp.com.br/) - ABS TRITAN    
   * [Gtmax3d](https://www.gtmax3d.com.br/) - ABS PLA PETG                 
   * [Impressão3DFácil](http://www.impressao3dfacil.com.br/) -  PLA                  
-  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS Premium, PETG - ABS PLA PETG                 
+  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS Premium, PETG - ABS PLA PETG    
+  * [InfinityMaq](https://www.infinitymaq.com.br) - ABS, PLA
   * [ITCTERM](http://www.itcterm.com.br/impressao-3d/loja-virtual/) - ABS PLA                  
   * [JWCOM](http://jwcom.mercadoshops.com.br/) - ABS PLA                  
   * [Material 3D (Boaimpressão)](https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/) -  PLA                  
