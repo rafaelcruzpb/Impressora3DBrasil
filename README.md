@@ -43,7 +43,7 @@ TO ADD...
   * [3dlab](https://3dlab.com.br/) - PLA, ABS Premium, PETG, WOOD, Flexível, HIPS
   * [3DLopes](https://3dlopes.com/) - PLA, ABS Premium, Tritan HT, PETG-XT, Flexível
   * [3DMachine](https://3d-machine.lojaintegrada.com.br/) - PLA, ABS
-  * [3DMood] (https://www.3dmod.com.br/loja/filamentos.html) - ABS
+  * [3DMood](https://www.3dmod.com.br/loja/filamentos.html) - ABS
   * [3DOn](http://www.3don.net.br/) - ABS
   * [3dprocer](https://3dprocer.com.br/) - ABS, PLA, PETG, TPU, HIPS
   * [3dSquad](https://www.facebook.com/3DSQUAD.X/) - ABS
