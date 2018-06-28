@@ -39,6 +39,7 @@ TO ADD...
   * [3dcog](http://www.3dcogloja.com.br/) - ABS
   * [3Decia](https://www.3decia.com.br/) - Polysmoth, HIPS, PVA, PLA(Premium, Heat Resistence, High Speed, Long-time print), WOOD, COOPERFILL, STEELFILL, Flexível (Ninjaflex,UltraFlexx, TPU,TPA,Polyflex),PC Policarbonato, CoPa Nylon, Fibra de Carbono, PolyPropylene. 
   * [3dfila](https://3dfila.com.br/) - ABS (Premium+, Premium+ Cristal), Flexível, PLA, PETG-XT, Titan-HT
+  * [3dfilaplast](http://www.3dfilaplast.com.br/) - ABS.
   * [3dfill](http://3dfill.com.br/) - ABS Premium, Flexível, PETG, PLA
   * [3dlab](https://3dlab.com.br/) - PLA, ABS Premium, PETG, WOOD, Flexível, HIPS
   * [3DLopes](https://3dlopes.com/) - PLA, ABS Premium, Tritan HT, PETG-XT, Flexível
