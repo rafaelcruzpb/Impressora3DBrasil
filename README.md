@@ -69,7 +69,7 @@ TO ADD...
   * [Mousta](http://www.mousta.com.br/) - ABS PLA                  
   * [Movtech](https://movtech.commercesuite.com.br/) - ABS PLA                  
   * [P1 Protótipos](https://loja.p1prototipos.com.br/) - ABS PLA PETG FLEX          
-  * [Petropolis (P3D)](https://www.loja.p3d.inf.br/) - 
+  * [Petropolis (P3D)](https://lista.mercadolivre.com.br/_CustId_77138398) - ABS
   * [Printalot](http://printalot.com.br/) - ABS PLA PETG FLEX          
   * [PrintGreen3D](https://www.printgreen.com.br/) - ABS                   
   * [Protofast](https://protofast.mercadoshops.com.br/) - ABS PLA PETG FLEX          
