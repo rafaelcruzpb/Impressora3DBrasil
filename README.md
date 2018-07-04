@@ -53,7 +53,8 @@ TO ADD...
   * [B3d](https://www.b3d.ind.br/) - ABS Premium
   * [Cliever](https://www.cliever.com/) - ABS PLA PETG FLEX TRANSLUCIDOS  
   * [F3db](https://www.filamentos3dbrasil.com.br/) - ABS PLA PVA WOOD  FLEX          
-  * [Faz3d](https://www.faz3d.com.br/) - ABS  PETG   HIPS TRITAN    
+  * [Faz3d](https://www.faz3d.com.br/) - ABS  PETG   HIPS TRITAN  
+  * [Flexbras](https://www.lojaflexbras.com.br/) - ABS  PLA
   * [Gravaplast](https://lista.mercadolivre.com.br/_CustId_193180928) - ABS PLA PETG TPU   
   * [Gsimp](http://gsimp.com.br/) - ABS TRITAN    
   * [Gtmax3d](https://www.gtmax3d.com.br/) - ABS PLA PETG                 
@@ -80,7 +81,8 @@ TO ADD...
   * [Sethi3d](https://www.sethi3d.com.br/produtos-sethi3d_) - ABS PLA PETG FLEX          
   * [Takao](https://lista.mercadolivre.com.br/_CustId_21890632) - ABS                   
   * [TATO](http://tato.ind.br/) -  PLA                  
-  * [Tec3D](https://www.tec3donline.com.br/) - ABS                   
+  * [Tec3D](https://www.tec3donline.com.br/) - ABS
+  * [Tevo3Dprinterbrasil](https://www.tevo3dprinterbrasil.com.br/filamentos/) - PLA                   
   * [Up3DBrasil](https://www.up3dbrasil.com.br/) - ABS PLA PETG HIPS PVA WOOD FLEX  NYLON Fibra de Carbono SILK 
   * [Versamídia](http://www.versamidia.com.br/) - ABS PLA PETG TPR
   * [Voolt3D](https://www.voolt3d.com.br/) - ABS PLA PETG WOOD            
