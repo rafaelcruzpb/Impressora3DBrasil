@@ -85,7 +85,8 @@ TO ADD...
   * [Tevo3Dprinterbrasil](https://www.tevo3dprinterbrasil.com.br/filamentos/) - PLA                   
   * [Up3DBrasil](https://www.up3dbrasil.com.br/) - ABS PLA PETG HIPS PVA WOOD FLEX  NYLON Fibra de Carbono SILK 
   * [Versamídia](http://www.versamidia.com.br/) - ABS PLA PETG TPR
-  * [Voolt3D](https://www.voolt3d.com.br/) - ABS PLA PETG WOOD            
+  * [Voolt3D](https://www.voolt3d.com.br/) - ABS PLA PETG WOOD     
+  * [WGL Mundo3D](http://wglmundo3d.boxloja.pro/) - ABSMG94 
   * [Zulgg Tecnologias (ESUN)](https://lista.mercadolivre.com.br/_CustId_240520377) - ABS PLA                  
 
 ## Componentes/Peças
