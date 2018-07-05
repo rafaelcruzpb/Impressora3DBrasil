@@ -48,7 +48,7 @@ TO ADD...
   * [3DOn](http://www.3don.net.br/) - ABS
   * [3dprocer](https://3dprocer.com.br/) - ABS, PLA, PETG, TPU, HIPS
   * [3dSquad](https://www.facebook.com/3DSQUAD.X/) - ABS
-  * [3dx](http://www.3dxfilamentos.com.br/) - ABS, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato
+  * [3dx](http://www.3dxfilamentos.com.br/) - ABS, ABSMG94 PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato, POM Poliacetal, ASA
   * [ABC3D](http://www.abc3d.com.br/) - PLA
   * [B3d](https://www.b3d.ind.br/) - ABS Premium
   * [Cliever](https://www.cliever.com/) - ABS PLA PETG FLEX TRANSLUCIDOS  
@@ -66,7 +66,7 @@ TO ADD...
   * [Material 3D (Boaimpressão)](https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/) -  PLA                  
   * [MaxGeek](http://www.maxgeek.com.br/) - ABS PLA PETG   HIPS  WOOD  FLEX  NYLON Fibra de Carbono PP      
   * [mgcomercialatacadista (Acccreate)](https://produto.mercadolivre.com.br/MLB-981769449-filamentos-para-impressora-3d-pla-175mm-marca-acccreate-_JM) -  PLA                  
-  * [Monster](https://loja.monster3d.tech/Home) - ABS PLA                  
+  * [Monster](https://loja.monster3d.tech/Home) - ABS PLA ASA DENTAL                 
   * [Mousta](http://www.mousta.com.br/) - ABS PLA                  
   * [Movtech](https://movtech.commercesuite.com.br/) - ABS PLA                  
   * [P1 Protótipos](https://loja.p1prototipos.com.br/) - ABS PLA PETG FLEX          
