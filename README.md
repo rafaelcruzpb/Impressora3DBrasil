@@ -68,7 +68,8 @@ TO ADD...
   * [mgcomercialatacadista (Acccreate)](https://produto.mercadolivre.com.br/MLB-981769449-filamentos-para-impressora-3d-pla-175mm-marca-acccreate-_JM) -  PLA                  
   * [Monster](https://loja.monster3d.tech/Home) - ABS PLA ASA DENTAL                 
   * [Mousta](http://www.mousta.com.br/) - ABS PLA                  
-  * [Movtech](https://movtech.commercesuite.com.br/) - ABS PLA                  
+  * [Movtech](https://movtech.commercesuite.com.br/) - ABS PLA 
+  * [National3D](https://lista.mercadolivre.com.br/_CustId_257625139) - ABS(MG94)
   * [P1 Protótipos](https://loja.p1prototipos.com.br/) - ABS PLA PETG FLEX          
   * [Petropolis (P3D)](https://lista.mercadolivre.com.br/_CustId_77138398) - ABS
   * [Printalot](http://printalot.com.br/) - ABS PLA PETG FLEX          
