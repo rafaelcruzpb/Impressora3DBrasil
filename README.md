@@ -34,61 +34,277 @@ TO ADD...
 
 ## Filamentos
 
-  * [3d Applications](http://www.3dapplications.com.br/) - PLA, ABS Premium,  PETG, Flexível, Wood e HIPS
-  * [3d Prime](https://www.3dprime.com.br/) - PLA, ABS, PETG, ASA
-  * [3dcog](http://www.3dcogloja.com.br/) - ABS
-  * [3Decia](https://www.3decia.com.br/) - Polysmoth, HIPS, PVA, PLA(Premium, Heat Resistence, High Speed, Long-time print), WOOD, COOPERFILL, STEELFILL, Flexível (Ninjaflex,UltraFlexx, TPU,TPA,Polyflex),PC Policarbonato, CoPa Nylon, Fibra de Carbono, PolyPropylene. 
-  * [3dfila](https://3dfila.com.br/) - ABS (Premium+, Premium+ Cristal), Flexível, PLA, PETG-XT, Titan-HT
-  * [3dfilaplast](http://www.3dfilaplast.com.br/) - ABS.
-  * [3dfill](http://3dfill.com.br/) - ABS Premium, Flexível, PETG, PLA
-  * [3dlab](https://3dlab.com.br/) - PLA, ABS Premium, PETG, WOOD, Flexível, HIPS
-  * [3DLopes](https://3dlopes.com/) - PLA, ABS Premium, Tritan HT, PETG-XT, Flexível
-  * [3DMachine](https://3d-machine.lojaintegrada.com.br/) - PLA, ABS
-  * [3DMood](https://www.3dmod.com.br/loja/filamentos.html) - ABS
-  * [3DOn](http://www.3don.net.br/) - ABS
-  * [3dprocer](https://3dprocer.com.br/) - ABS, PLA, PETG, TPU, HIPS
-  * [3dSquad](https://www.facebook.com/3DSQUAD.X/) - ABS
-  * [3dx](http://www.3dxfilamentos.com.br/) - ABS, ABSMG94 PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato, POM Poliacetal, ASA
-  * [ABC3D](http://www.abc3d.com.br/) - PLA
-  * [B3d](https://www.b3d.ind.br/) - ABS Premium
-  * [Cliever](https://www.cliever.com/) - ABS PLA PETG FLEX TRANSLUCIDOS  
-  * [F3db](https://www.filamentos3dbrasil.com.br/) - ABS PLA PVA WOOD  FLEX          
-  * [Faz3d](https://www.faz3d.com.br/) - ABS  PETG   HIPS TRITAN  
-  * [Flexbras](https://www.lojaflexbras.com.br/) - ABS  PLA
-  * [Gravaplast](https://lista.mercadolivre.com.br/_CustId_193180928) - ABS PLA PETG TPU   
-  * [Gsimp](http://gsimp.com.br/) - ABS TRITAN    
-  * [Gtmax3d](https://www.gtmax3d.com.br/) - ABS PLA PETG                 
-  * [Impressão3DFácil](http://www.impressao3dfacil.com.br/) -  PLA                  
-  * [Imprimindo3DBrasil](https://lista.mercadolivre.com.br/_CustId_239031422) - ABS Premium, PETG - ABS PLA PETG    
-  * [InfinityMaq](https://www.infinitymaq.com.br) - ABS, PLA
-  * [ITCTERM](http://www.itcterm.com.br/impressao-3d/loja-virtual/) - ABS PLA                  
-  * [JWCOM](http://jwcom.mercadoshops.com.br/) - ABS PLA                  
-  * [Material 3D (Boaimpressão)](https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/) -  PLA                  
-  * [MaxGeek](http://www.maxgeek.com.br/) - ABS PLA PETG   HIPS  WOOD  FLEX  NYLON Fibra de Carbono PP      
-  * [mgcomercialatacadista (Acccreate)](https://produto.mercadolivre.com.br/MLB-981769449-filamentos-para-impressora-3d-pla-175mm-marca-acccreate-_JM) -  PLA                  
-  * [Monster](https://loja.monster3d.tech/Home) - ABS PLA ASA DENTAL                 
-  * [Mousta](http://www.mousta.com.br/) - ABS PLA                  
-  * [Movtech](https://movtech.commercesuite.com.br/) - ABS PLA 
-  * [National3D](https://lista.mercadolivre.com.br/_CustId_257625139) - ABS(MG94)
-  * [P1 Protótipos](https://loja.p1prototipos.com.br/) - ABS PLA PETG FLEX          
-  * [Petropolis (P3D)](https://lista.mercadolivre.com.br/_CustId_77138398) - ABS
-  * [Printalot](http://printalot.com.br/) - ABS PLA PETG FLEX          
-  * [PrintGreen3D](https://www.printgreen.com.br/) - ABS                   
-  * [Protofast](https://protofast.mercadoshops.com.br/) - ABS PLA PETG FLEX          
-  * [Puzzles Dynamics](https://www.lojapuzzles.com.br/) - ABS PLA WOOD  FLEX  NYLON        
-  * [RBFD](http://www.rbfd.com.br/loja/) - ABS PLA  ASA   PVA WOOD FLEX  NYLON        
-  * [RBSHOPGP](https://www.rbshopgp.com.br) ABS, PLA. - ABS PLA                  
-  * [RepRap3D](https://www.reprap3d.com.br/) - ABS PLA                  
-  * [Sethi3d](https://www.sethi3d.com.br/produtos-sethi3d_) - ABS PLA PETG FLEX          
-  * [Takao](https://lista.mercadolivre.com.br/_CustId_21890632) - ABS                   
-  * [TATO](http://tato.ind.br/) -  PLA                  
-  * [Tec3D](https://www.tec3donline.com.br/) - ABS
-  * [Tevo3Dprinterbrasil](https://www.tevo3dprinterbrasil.com.br/filamentos/) - PLA                   
-  * [Up3DBrasil](https://www.up3dbrasil.com.br/) - ABS PLA PETG HIPS PVA WOOD FLEX  NYLON Fibra de Carbono SILK 
-  * [Versamídia](http://www.versamidia.com.br/) - ABS PLA PETG TPR
-  * [Voolt3D](https://www.voolt3d.com.br/) - ABS PLA PETG WOOD     
-  * [WGL Mundo3D](http://wglmundo3d.boxloja.pro/) - ABSMG94 
-  * [Zulgg Tecnologias (ESUN)](https://lista.mercadolivre.com.br/_CustId_240520377) - ABS PLA                  
+<table border="1">    
+  <tr>
+	<td><b>Fabricante/Loja</td>
+	<td><b>Cidade - Estado</td>
+	<td><b>Materiais</td>
+  <tr>
+	<td><a href="https://www.3dprime.com.br">3D Prime</a></td>
+    <td>São Paulo - SP</td>
+	<td>PLA, ABS, PETG, ASA</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.3dcogloja.com.br">3DCog</a></td>
+    <td>Rio de Janeiro - RJ</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.3decia.com.br/">3D e Cia</a></td>
+    <td>Piracicaba - SP</td>
+	<td>Polysmoth, HIPS, PVA, PLA(Premium, Heat Resistence, High Speed, Long-time print), WOOD, COOPERFILL, STEELFILL, Flexível (Ninjaflex,UltraFlexx, TPU,TPA,Polyflex),PC Policarbonato, CoPa Nylon, Fibra de Carbono, PolyPropylene.</td>
+  </tr>
+  <tr>
+	<td><a href="https://3dfila.com.br/">3DFila</a></td>
+    <td>Belo Horizonte - MG</td>
+	<td>ABS (Premium+, Premium+ Cristal), Flexível(TPU), PLA(Basic, EasyFill), PETG-XT, Titan-HT, HIPS</td>
+  </tr>
+ <tr>
+	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
+    <td>Caxias do Sul - RS</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="http://3dfill.com.br">3DFill</a></td>
+    <td>São Paulo - SP</td>
+	<td>ABS Premium, Flexível(TPU), PETG, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://3dlab.com.br">3D Lab</a></td>
+    <td>Betim - MG</td>
+	<td>PLA, ABS Premium, PETG, WOOD, Flexível(TPU), HIPS</td>
+  </tr>
+  <tr>
+	<td><a href="https://3dlopes.com">3DLopes</a></td>
+    <td>Belo Horizonte - MG</td>
+	<td>PLA, ABS Premium, Tritan HT, PETG-XT, Flexível, Nylon(230, 645, Bridge, PCTPE)</td>
+  </tr>
+  <tr>
+	<td><a href="https://3d-machine.lojaintegrada.com.br">3DMachine</a></td>
+    <td>São Paulo - SP</td>
+	<td>PLA, ABS</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.3dmod.com.br/loja/filamentos.html">3DMod</a></td>
+    <td>São Paulo - SP</td>
+	<td>ABS Premium</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.3don.net.br">3D.on</a></td>
+    <td>Florianópolis - SC</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="https://3dprocer.com.br">3D Procer</a></td>
+    <td>São Bernardo do Campo – SP</td>
+	<td>ABS, PLA, PETG, Flexível(TPU), HIPS</td>
+  </tr>
+  <tr>
+	<td><a href="https://3dsquad.com.br">3dSquad</a></td>
+    <td>São Bernardo do Campo – SP</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.3dxfilamentos.com.br">3DX</a></td>
+    <td>São Caetano do Sul - SP</td>
+	<td>ABS, ABSMG94, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato, POM Poliacetal, ASA</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.b3d.ind.br">B3D</a></td>
+    <td>Santa Rita do Sapucaí - MG</td>
+	<td>ABS Premium+</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.cliever.com">Cliever</a></td>
+    <td>Porto Alegre - RS</td>
+	<td>ABS, PLA, PETG, FLEX, TRANSLUCIDOS</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.filamentos3dbrasil.com.br">F3DB</a></td>
+    <td>Sapiranga - RS</td>
+	<td>ABS Premium, PLA, PETG, FLEX</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.faz3d.com.br">Faz3D</a></td>
+    <td>Nova Odessa - SP</td>
+	<td>ABS MG94(Premium), PETG, HIPS, TRITAN</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.lojaflexbras.com.br">Flexbras</a></td>
+    <td>Sorocaba - SP</td>
+	<td>ABS MG94(Premium), PETG, HIPS, TRITAN</td>
+  </tr>
+  <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_193180928">Gravaplast</a></td>
+    <td>Joinville - SC</td>
+	<td>ABS, PLA, PETG, Flexível(TPU)</td>
+  </tr>
+  <tr>
+	<td><a href="http://gsimp.com.br">GSIMP3D</a></td>
+    <td>Caxias do Sul - RS</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.gtmax3d.com.br">GTMax 3D</a></td>
+    <td>Americana - SP</td>
+	<td>ABS Premium MG94, Fibra de Carbono, Wood, PETG, PLA, TRITAN</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.impressao3dfacil.com.br">Impressão3DFácil</a></td>
+    <td>Cascavel - PR</td>
+	<td>PLA+(eSun)</td>
+  </tr>
+  <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_239031422">Imprimindo3DBrasil</a></td>
+    <td>Brumadinho - MG</td>
+	<td>ABS Premium, PLA, PETG</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.infinitymaq.com.br">InfinityMaq</a></td>
+    <td>São Bernardo do Campo - SP</td>
+	<td>ABS, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.itcterm.com.br/impressao-3d/loja-virtual">ITCTERM</a></td>
+    <td>Florianópolis - SC</td>
+	<td>ABS, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="http://jwcom.mercadoshops.com.br/outros_qO5214618XtOcxSM">JWCOM</a></td>
+    <td>São Paulo - SP	</td>
+	<td>ABS, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/">Material 3D (Boaimpressão)</a></td>
+    <td>Curitiba - PR</td>
+	<td>PLA, PLA(Acccreate - Madeira e Metais)</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.maxgeek.com.br">MaxGeek</a></td>
+    <td>Barueri - SP</td>
+	<td>ABS Premium, PLA, PETG, HIPS, Flexível, Fibra de Carbono, Nylon, PP, WOOD</td>
+  </tr>
+  <tr>
+	<td><a href="https://produto.mercadolivre.com.br/MLB-981769449-filamentos-para-impressora-3d-pla-175mm-marca-acccreate-_JM">MG Comercial Atacadista</a></td>
+    <td>Vila Velha - ES</td>
+	<td>PLA(Acccreate)</td>
+  </tr>
+  <tr>
+	<td><a href="https://loja.monster3d.tech/Home">Monster 3D</a></td>
+    <td>São Paulo - SP</td>
+	<td>ABS Premium, PLA, ASA, Dental(ABS)</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.mousta.com.br">Mousta</a></td>
+    <td>Bauru - SP</td>
+	<td>ABS Premium, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://movtech.commercesuite.com.br">Movtech</a></td>
+    <td>São Bernardo do Campo - SP</td>
+	<td>ABS, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_257625139">National3D</a></td>
+    <td>Louveira - SP</td>
+	<td>ABS MG94 Premium</td>
+  </tr>
+  <tr>
+	<td><a href="https://loja.p1prototipos.com.br/">P1 Protótipos</a></td>
+    <td>Campinas - SP</td>
+	<td>ABS, PLA, PETG, FLEX</td>
+  </tr>
+  <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_77138398">P3D</a></td>
+    <td>Petrópolis - RJ</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="http://printalot.com.br">PrintaLot</a></td>
+    <td>Mogi das Cruzes - SP</td>
+	<td>ABS, PLA, PLA MAX, PETG, FLEX</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.printgreen.com.br">PrintGreen3D</a></td>
+    <td>São Paulo - SP</td>
+	<td>ABS Sustentável</td>
+  </tr>
+  <tr>
+	<td><a href="https://protofast.mercadoshops.com.br">Protofast</a></td>
+    <td>Novo Hamburgo - RS</td>
+	<td>ABS Premium, PLA, PETG, FLEX</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.lojapuzzles.com.br">Puzzles Dynamics</a></td>
+    <td>São Paulo - SP</td>
+	<td>ABS, PLA, FLEX, WOOD, Nylon, Metálicos</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.rbfd.com.br/loja">RBFD</a></td>
+    <td>São Paulo - SP</td>
+	<td>ABS, PLA, FLEX, WOOD, Nylon, ASA, PVA</td>
+  </tr>
+    <tr>
+	<td><a href="https://www.rbshopgp.com.br">RBShopGP</a></td>
+    <td>Criciúma - SC</td>
+	<td>ABS, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.reprap3d.com.br">RepRap3D</a></td>
+    <td>Jundiaí - SP</td>
+	<td>ABS, PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.sethi3d.com.br/filamentos_">Sethi3D</a></td>
+    <td>Campinas - SP</td>
+	<td>ABS, ABS Plus, PLA, PETG, Flexível</td>
+  </tr>
+  <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_21890632">Takao</a></td>
+    <td>Taubaté - SP</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.tato.ind.br/categoria/Impressora-3D">Tato Equipamentos</a></td>
+    <td>São Paulo - SP</td>
+	<td>PLA</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.tec3donline.com.br/">Tec3D</a></td>
+    <td>Americana - SP</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.tevo3dprinterbrasil.com.br/filamentos">Tevo Brasil</a></td>
+    <td>Piracicaba - SP</td>
+	<td>ABS</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.up3dbrasil.com.br">UP3D Brasil</a></td>
+    <td>Louveira - SP</td>
+	<td>ABS Premium, PLA Premium, PETG, Flexível, HIPS, PVA, Nylon, ASA, SILK, WOOD, Mármore, Metálicos, Condutivo, Fibra de Carbono</td>
+  </tr>
+  <tr>
+	<td><a href="http://www.versamidia.com.br">VersaMídia</a></td>
+    <td>Florianópolis - SC</td>
+	<td>ABS, PLA, PETG, TPR Premium</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.voolt3d.com.br">Voolt3D</a></td>
+    <td>Santo André - SP</td>
+	<td>ABS, PLA, PETG, FLEX</td>
+  </tr>
+  <tr>
+	<td><a href="http://wglmundo3d.boxloja.pro">WGL Mundo 3D</a></td>
+    <td>São José do Rio Preto - SP</td>
+	<td>ABS MG94</td>
+  </tr>
+  <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_240520377">Zulgg Tecnologias (eSun)</a></td>
+    <td>São José dos Pinhais - PR</td>
+	<td>ABS Premium, PLA+, PLA Glass, PVA, WOOD, PETG, eAlfill(Alumínio) </td>
+  </tr>
+</table>           
 
 ## Componentes/Peças
 
