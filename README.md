@@ -145,6 +145,11 @@ TO ADD...
 	<td>ABS</td>
   </tr>
   <tr>
+	<td><a href="https://www.3dcloner.ind.br">3DCloner</a></td>
+    <td>Marechal Cândido Rondon - PR</td>
+	<td>PLA, ABS Plus, ABS, PETG, Flexível</td>
+  </tr>
+  <tr>
 	<td><a href="https://www.gtmax3d.com.br">GTMax 3D</a></td>
     <td>Americana - SP</td>
 	<td>ABS Premium MG94, Fibra de Carbono, Wood, PETG, PLA, TRITAN</td>
