@@ -110,6 +110,11 @@ TO ADD...
 	<td>ABS, ABSMG94, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato, POM Poliacetal, ASA</td>
   </tr>
   <tr>
+	<td><a href="https://filamentoabs.com.br/">ABS</a></td>
+    <td>Belo Horizonte - MG</td>
+	<td>ABS</td>
+  </tr>		
+  <tr>
 	<td><a href="https://www.b3d.ind.br">B3D</a></td>
     <td>Santa Rita do Sapucaí - MG</td>
 	<td>ABS Premium+</td>
