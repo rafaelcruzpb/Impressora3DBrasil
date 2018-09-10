@@ -33,13 +33,18 @@ TO ADD...
 
 
 ## Filamentos
-
+ 
 <table border="1">    
+	<td><a href="http://www.3dsolid.com.br">3dSolid</a></td>
   <tr>
 	<td><b>Fabricante/Loja</td>
 	<td><b>Cidade - Estado</td>
 	<td><b>Materiais</td>
   <tr>
+	<td><a href="http://www.3dsolid.com.br">3dSolid</a></td>
+	  <td>Rio de Janeiro - RJ</td>
+	  <td> Colorfabb PLA/PHA, Colorfabb nGen, Colorfabb Steelfill, Colorfabb Bronzefill, Colorfabb Ngen Flex, Colorfabb HT Clear, Fillamentum ASA, Fillamentum TPU 98A, PLA HT 120°C, Colorfabb PLA/PHA Cor sob demanda (mínimo 2 kg)</td>
+	  
 	<td><a href="https://www.3dprime.com.br">3D Prime</a></td>
     <td>São Paulo - SP</td>
 	<td>PLA, ABS, PETG, ASA</td>
