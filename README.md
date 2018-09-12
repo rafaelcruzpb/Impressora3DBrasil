@@ -105,6 +105,11 @@ TO ADD...
 	<td>ABS</td>
   </tr>
   <tr>
+	<td><a href="https://lista.mercadolivre.com.br/_CustId_155239172">3dSolid</a></td>
+    <td>Rio de Janeiro– RJ</td>
+	<td>PLA, ASA, Flexível, PETG, Stellfill</td>
+  </tr>
+  <tr>
 	<td><a href="http://www.3dxfilamentos.com.br">3DX</a></td>
     <td>São Caetano do Sul - SP</td>
 	<td>ABS, ABSMG94, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato, POM Poliacetal, ASA</td>
