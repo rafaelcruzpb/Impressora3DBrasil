@@ -189,6 +189,11 @@ TO ADD...
     <td>São Paulo - SP	</td>
 	<td>ABS, PLA</td>
   </tr>
+		  <tr>
+	<td><a href="https://leolg.com.br/loja/">Leolg</a></td>
+    <td>Campinas - SP	</td>
+	<td>ABS, PLA, PETG e Flexível</td>
+  </tr>
   <tr>
 	<td><a href="https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/">Material 3D (Boaimpressão)</a></td>
     <td>Curitiba - PR</td>
