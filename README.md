@@ -334,11 +334,11 @@ TO ADD...
 
 * [Repetier Server](https://www.repetier-server.com/download-repetier-server/) - (Windows/Linux/MAC/Arm/Raspberry Pi) - Crie servidores para gerenciar suas impressoras através da rede local/Internet, envie impressões e comande tudo através de um navegador de internet. (exclusivo para impressoras com firmware Repetier)
 
+* [Meshmixer](http://www.meshmixer.com/) - (Windows/MAC) - Software para criar e editar arquivos 3D. (Excelente gerador de suportes que economizam nas suas impressões)
+
 ## Solução de Problemas
 
   * [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - Guia para solução de vários problemas comuns que ocorrem com impressoras 3D. Ótimo guia principalmente para iniciantes.
-  
-
 
 
 
