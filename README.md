@@ -21,15 +21,13 @@ Esta ideia é originalmente vinda de grupos de Whatsapp e compartilhada no grupo
 Sumário
 =================
 
-   * [Impressoras 3D](#impressoras-3d)
    * [Filamentos](#filamentos)
+   * [Impressoras 3D](#impressoras-3d)
    * [Componentes/Peças](#componentes/peças)
    * [Software](#software)
    * [Solução de Problemas](#solução-de-problemas)
 
-## Impressoras 3D
 
-TO ADD...
 
 
 ## Filamentos
@@ -325,6 +323,10 @@ TO ADD...
 	<td>ABS Premium, PLA+, PLA Glass, PVA, WOOD, PETG, eAlfill(Alumínio) </td>
   </tr>
 </table>           
+
+## Impressoras 3D
+
+  TO ADD...
 
 ## Componentes/Peças
 
