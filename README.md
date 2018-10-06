@@ -195,9 +195,9 @@ TO ADD...
 	<td>ABS, PLA, PETG e Flexível</td>
   </tr>
   <tr>
-	<td><a href="https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/">Material 3D (Boaimpressão)</a></td>
+	<td><a href="https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/">Material 3D (Boa Impressão 3D)</a></td>
     <td>Curitiba - PR</td>
-	<td>PLA, PLA(Acccreate - Madeira e Metais)</td>
+	<td>PLA e PETG</td>
   </tr>
   <tr>
 	<td><a href="http://www.maxgeek.com.br">MaxGeek</a></td>
