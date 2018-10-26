@@ -43,12 +43,6 @@ Sumário
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
   <tr>
-	<td><a href="https://www.3dprime.com.br">3D Prime</a></td>
-    <td>São Paulo - SP</td>
-	<td>PLA, ABS, PETG, ASA</td>
-	  <td>Não informado</td>
-  </tr>
-  <tr>
 	<td><a href="http://www.3dcogloja.com.br">3DCog</a></td>
     <td>Rio de Janeiro - RJ</td>
 	<td>ABS</td>
@@ -106,6 +100,12 @@ Sumário
 	<td><a href="http://www.3don.net.br">3D.on</a></td>
     <td>Florianópolis - SC</td>
 	<td>ABS</td>
+	  <td>Não informado</td>
+  </tr>
+  <tr>
+	<td><a href="https://www.3dprime.com.br">3D Prime</a></td>
+    <td>São Paulo - SP</td>
+	<td>PLA, ABS, PETG, ASA</td>
 	  <td>Não informado</td>
   </tr>
   <tr>
