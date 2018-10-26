@@ -6,6 +6,10 @@ Colabore enviando "Pull Requests" para adicionar mais links nesta lista.
 
 Esta ideia é originalmente vinda de grupos de Whatsapp e compartilhada no grupo [3D Geek Show](https://www.facebook.com/groups/3DGeekShow) do Facebook (Graças a Gustavo Murad).
 
+## Importante
+
+Este reposítório foi criado e é mantido pela comunidade. Por isso, nós **NÃO** nos responsabilizamos pelo conteúdo aqui publicado, e nem por quaisquer problemas que venham a ter com as lojas aqui citadas. Recomendamos que pesquisem a reputação da loja antes de realizar a compra e qualquer ação tomada, é por sua conta e risco.
+
 ## Como colaborar (adicionando ou corrigindo itens desta lista)
 
 1. Se você não tiver uma conta no Github, crie uma clicando em **Sign Up** ou se já tiver uma conta, clique em **Sign In** para fazer login, no topo desta página.
