@@ -58,7 +58,7 @@ Sumário
 	<td><a href="https://3dfila.com.br/">3DFila</a></td>
     <td>Belo Horizonte - MG</td>
 	<td>ABS (Premium+, Premium+ Cristal), Flexível(TPU), PLA(Basic, EasyFill), PETG-XT, Titan-HT, HIPS</td>
-	  <td>Não informado</td>
+	  <td>:x:</td>
   </tr>
  <tr>
 	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
@@ -106,7 +106,7 @@ Sumário
 	<td><a href="https://www.3dprime.com.br">3D Prime</a></td>
     <td>São Paulo - SP</td>
 	<td>PLA, ABS, PETG, ASA</td>
-	  <td>Não informado</td>
+	  <td>:heavy_check_mark:</td>
   </tr>
   <tr>
 	<td><a href="https://3dprocer.com.br">3D Procer</a></td>
@@ -154,7 +154,7 @@ Sumário
 	<td><a href="https://www.filamentos3dbrasil.com.br">F3DB</a></td>
     <td>Sapiranga - RS</td>
 	<td>ABS Premium, PLA, PETG, FLEX</td>
-	  <td>Não informado</td>
+	  <td>:heavy_check_mark:</td>
   </tr>
   <tr>
 	<td><a href="https://www.faz3d.com.br">Faz3D</a></td>
