@@ -76,7 +76,7 @@ Sumário
 	<td><a href="https://3dlab.com.br">3D Lab</a></td>
     <td>Betim - MG</td>
 	<td>PLA, ABS Premium, PETG, WOOD, Flexível(TPU), HIPS</td>
-	  <td>Não informado</td>
+	  <td>:heavy_check_mark:</td>
   </tr>
   <tr>
 	<td><a href="https://3dlopes.com">3DLopes</a></td>
