@@ -249,8 +249,8 @@ Sumário
   <tr>
 	<td><a href="https://loja.monster3d.tech/Home">Monster 3D</a></td>
     <td>São Paulo - SP</td>
-	<td>ABS Premium, PLA, ASA, Dental(ABS)</td>
-	  <td>Não informado</td>
+	<td>ABS Premium, PLA, ASA, Dental Marfim, Dental Gesso, PETG, Flexível, HIPS, ABS Premium Reciclado e PLA Reciclado</td>
+	  <td>Sim. Embalagens Zip Lock metalizadas para maior proteção à umidade e luz. Todos embalados à vácuo e com certificado de qualidade atestando o baixo teor de umidade no ato da embalagem</td>
   </tr>
   <tr>
 	<td><a href="http://www.mousta.com.br">Mousta</a></td>
