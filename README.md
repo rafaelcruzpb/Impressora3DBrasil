@@ -42,6 +42,12 @@ Sumário
 	<td><b>Cidade - Estado</td>
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
+   <tr>
+	<td><a href="https://www.3d-itshop.com.br/filamentos">3D-It Shop</a></td>
+    <td>Itaquaquecetuba - SP</td>
+	<td>ABS, ABS Premium</td>
+	  <td>:x:</td>
+  </tr>
   <tr>
 	<td><a href="http://www.3dcogloja.com.br">3DCog</a></td>
     <td>Rio de Janeiro - RJ</td>
