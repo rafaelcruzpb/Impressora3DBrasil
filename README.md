@@ -390,6 +390,12 @@ Sumário
 	<td>ABS Premium, PLA+, PLA Glass, PVA, WOOD, PETG, eAlfill(Alumínio) </td>
 	  <td>Não informado</td>
   </tr>
+  <tr>
+	  <td><a href="http://filamento-3d-poli.negocio.site">Filamento 3D Poli</a></td>
+	  <td>São Paulo - SP</td>
+	  <td>ABS, PET-G tenacificado, Nylon 6, Poliacetal, Polipropileno, Poliestireno cristal, TPU flexível</td>
+	  <td>Não informado</td>
+		
 </table>           
 
 ## Impressoras 3D
