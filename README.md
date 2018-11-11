@@ -169,6 +169,12 @@ Sumário
 	  <td>Não informado</td>
   </tr>
   <tr>
+	  <td><a href="http://filamento-3d-poli.negocio.site">Filamento 3D Poli</a></td>
+	  <td>São Paulo - SP</td>
+	  <td>ABS, PET-G tenacificado, Nylon 6, Poliacetal, Polipropileno, Poliestireno cristal, TPU flexível</td>
+	  <td>Não informado</td>
+  </tr>	
+  <tr>
 	<td><a href="https://www.lojaflexbras.com.br">Flexbras</a></td>
     <td>Sorocaba - SP</td>
 	<td>ABS MG94(Premium), PETG, HIPS, TRITAN</td>
