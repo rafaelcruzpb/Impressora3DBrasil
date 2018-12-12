@@ -415,7 +415,14 @@ Sumário
 ## Solução de Problemas
 
   * [Simplify3D Print Quality Troubleshooting Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) - Guia para solução de vários problemas comuns que ocorrem com impressoras 3D. Ótimo guia principalmente para iniciantes.
+  (em inglês)
 
+## Tipos e propriedades de filamentos
 
+* [Filament Properties Table](https://www.simplify3d.com/support/materials-guide/properties-table/) - Esta tabela resume uma ampla variedade de propriedades e características para cada material. Inclui também uma ferramenta de comparação integrada para que você possa comparar facilmente uma seleção de materiais entre si. Basta selecionar os materiais que você deseja comparar, marcando a caixa de seleção na primeira linha e, em seguida, escolha "Compare Selected". Para sair da comparação e retornar à tabela completa, escolha "Show All". 
+(em inglês)
 
+## Simplify3D - Descrição das propriedades do fatiador
 
+* [Tip of the Day Compilation: FFF Settings Window](https://forum.simplify3d.com/viewtopic.php?f=8&t=2367) - Descrição de todas as opções do fatiador
+(em inglês)
