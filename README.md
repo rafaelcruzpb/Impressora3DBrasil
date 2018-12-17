@@ -30,8 +30,8 @@ Sumário
    * [Componentes/Peças](#componentes/peças)
    * [Software](#software)
    * [Solução de Problemas](#solução-de-problemas)
-
-
+   * [Tipos e propriedades de filamentos](#tipos-e-propriedades-de-filamentos)
+   * [Simplify3D - Descrição das propriedades do fatiador](#simplify3d---descrição-das-propriedades-do-fatiador)
 
 
 ## Filamentos
