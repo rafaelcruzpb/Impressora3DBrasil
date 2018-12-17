@@ -76,7 +76,7 @@ Sumário
 	<td><a href="http://3dfill.com.br">3DFill</a></td>
     <td>São Paulo - SP</td>
 	<td>ABS Premium, Flexível(TPU), PETG, PLA</td>
-	  <td>Não informado</td>
+	  <td>Sim, com pacote de silica incluso</td>
   </tr>
   <tr>
 	<td><a href="https://3dlab.com.br">3D Lab</a></td>
