@@ -391,7 +391,7 @@ Sumário
 	  <td>Não informado</td>
   </tr>
   <tr>
-	<td><a href="https://lista.mercadolivre.com.br/_CustId_240520377">Zulgg Tecnologias (eSun)</a></td>
+	<td><a href="https://perfil.mercadolivre.com.br/ZULGGTECNOLOGIAS">Zulgg Tecnologias (eSun)</a></td>
     <td>São José dos Pinhais - PR</td>
 	<td>ABS Premium, PLA+, PLA Glass, PVA, WOOD, PETG, eAlfill(Alumínio) </td>
 	  <td>Não informado</td>
