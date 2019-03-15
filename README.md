@@ -136,7 +136,7 @@ Sumário
 	<td><a href="http://www.3dxfilamentos.com.br">3DX</a></td>
     <td>São Caetano do Sul - SP</td>
 	<td>ABS, ABSMG94, PLA, PETG, PA Nylon, PP Polipropileno, PC Policarbonato, POM Poliacetal, ASA</td>
-	  <td>Não informado</td>
+	  <td>Não</td>
   </tr>
   <tr>
 	<td><a href="https://filamentoabs.com.br/">ABS</a></td>
