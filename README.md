@@ -142,7 +142,7 @@ Sumário
 	<td><a href="https://filamentoabs.com.br/">ABS</a></td>
     <td>Belo Horizonte - MG</td>
 	<td>ABS</td>
-	  <td>Não informado</td>
+	  <td>:x:</td>
   </tr>		
   <tr>
 	<td><a href="https://www.b3d.ind.br">B3D</a></td>
