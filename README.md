@@ -181,6 +181,12 @@ Sumário
 	  <td>Não informado</td>
   </tr>
   <tr>
+	<td><a href="https://www.slim3d.com.br">Slim 3D</a></td>
+    <td>Joinville - SC</td>
+	<td>ABS, PLA, PETG, Flexível(TPU), HIPS, PVA e impressora diversas inclusive resina</td>
+	  <td>Não informado</td>
+  </tr>
+  <tr>
 	<td><a href="http://www.etechbrasil.com.br/">E.TECH Brasil(3DCloner)</a></td>
     <td>Santa Terezinha de Itaipu - PR</td>
 	<td>ABS Premium, PLA Premium, PETG, Flexível(TPE), Esun(ABS+, PLA+, Wood, Bronze, Flexível, Nylon, PC, Cobre, Alumínio)</td>
