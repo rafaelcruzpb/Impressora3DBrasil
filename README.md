@@ -29,6 +29,7 @@ Sumário
    * [Impressoras 3D](#impressoras-3d)
    * [Componentes/Peças](#componentes/peças)
    * [Software](#software)
+   * [Modelos 3D](#modelos-3d)
    * [Solução de Problemas](#solução-de-problemas)
    * [Tipos e propriedades de filamentos](#tipos-e-propriedades-de-filamentos)
    * [Simplify3D - Descrição das propriedades do fatiador](#simplify3d---descrição-das-propriedades-do-fatiador)
@@ -381,6 +382,15 @@ Sumário
 * [Repetier Server](https://www.repetier-server.com/download-repetier-server/) - (Windows/Linux/MAC/Arm/Raspberry Pi) - Crie servidores para gerenciar suas impressoras através da rede local/Internet, envie impressões e comande tudo através de um navegador de internet. (exclusivo para impressoras com firmware Repetier)
 
 * [Meshmixer](http://www.meshmixer.com/) - (Windows/MAC) - Software para criar e editar arquivos 3D. (Excelente gerador de suportes que economizam nas suas impressões)
+
+## Modelos 3D
+
+* [Cults3d](https://cults3d.com)
+* [MyMiniFactory](https://www.myminifactory.com)
+* [Pinshape](https://pinshape.com/)
+* [Thingverse](https://www.thingiverse.com)
+* [XYZprinting](https://3d-gallery.xyzprinting.com)
+* [YouMagine](https://www.youmagine.com)
 
 ## Solução de Problemas
 
