@@ -380,6 +380,8 @@ Sumário
 
 * [Repetier Server](https://www.repetier-server.com/download-repetier-server/) - (Windows/Linux/MAC/Arm/Raspberry Pi) - Crie servidores para gerenciar suas impressoras através da rede local/Internet, envie impressões e comande tudo através de um navegador de internet. (exclusivo para impressoras com firmware Repetier)
 
+* [Prusa Slicer](https://www.prusa3d.com/prusaslicer/) - (Windows/Linux/MAC) - Software para fatiar arquivos 3D baseado no software de código aberto [Slic3r](https://slic3r.org/). Originalmente criado para utilização em conjunto com a [Prusa3D](https://www.prusa3d.com/), porém é possível utilizar normalmente para qualquer tipo de impressora.
+
 * [Meshmixer](http://www.meshmixer.com/) - (Windows/MAC) - Software para criar e editar arquivos 3D. (Excelente gerador de suportes que economizam nas suas impressões)
 
 ## Solução de Problemas
