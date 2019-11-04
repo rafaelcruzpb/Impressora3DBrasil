@@ -29,6 +29,7 @@ Sumário
    * [Impressoras 3D](#impressoras-3d)
    * [Componentes/Peças](#componentes/peças)
    * [Software](#software)
+   * [Modelos 3D](#modelos-3d)
    * [Solução de Problemas](#solução-de-problemas)
    * [Tipos e propriedades de filamentos](#tipos-e-propriedades-de-filamentos)
    * [Simplify3D - Descrição das propriedades do fatiador](#simplify3d---descrição-das-propriedades-do-fatiador)
@@ -383,6 +384,15 @@ Sumário
 * [Prusa Slicer](https://www.prusa3d.com/prusaslicer/) - (Windows/Linux/MAC) - Software para fatiar arquivos 3D baseado no software de código aberto [Slic3r](https://slic3r.org/). Originalmente criado para utilização em conjunto com a [Prusa3D](https://www.prusa3d.com/), porém é possível utilizar normalmente para qualquer tipo de impressora.
 
 * [Meshmixer](http://www.meshmixer.com/) - (Windows/MAC) - Software para criar e editar arquivos 3D. (Excelente gerador de suportes que economizam nas suas impressões)
+
+## Modelos 3D
+
+* [Cults3d](https://cults3d.com)
+* [MyMiniFactory](https://www.myminifactory.com)
+* [Pinshape](https://pinshape.com/)
+* [Thingverse](https://www.thingiverse.com)
+* [XYZprinting](https://3d-gallery.xyzprinting.com)
+* [YouMagine](https://www.youmagine.com)
 
 ## Solução de Problemas
 
