@@ -223,9 +223,9 @@ Sumário
 	<td>Não informado</td>
   </tr>
   <tr>
-	<td><a href="https://boaimpressao3d.com.br/produto-tag/filamentos-material-3d/">Material 3D (Boa Impressão 3D)</a></td>
+	<td><a href="https://boaimpressao3d.com.br/categoria-produto/filamentos-para-impressora-3d/">Material 3D (Boa Impressão 3D)</a></td>
     <td>Curitiba - PR</td>
-	<td>PLA e PETG</td>
+	<td>PLA(Normal, High Performance, Fosforescente, Fotocromático), PETG, Flexível(TPU), Metálicos(Bronze, Platina, Ouro, Pérola, Azul Safira, Pink, Rosa, Azul Claro, Lilás, Vinho, Azul Violeta, Verde Atômico)</td>
 	  <td>:heavy_check_mark:</td>
   </tr>
   <tr>
