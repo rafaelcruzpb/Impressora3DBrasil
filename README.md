@@ -184,8 +184,8 @@ Sumário
   <tr>
 	<td><a href="https://www.slim3d.com.br">Slim 3D</a></td>
     <td>Joinville - SC</td>
-	<td>ABS, PLA, PETG, Flexível(TPU), HIPS, PVA e impressora diversas inclusive resina</td>
-	  <td>Não informado</td>
+	<td>ABS, PLA, PETG, Flexível(TPU), Wood, Silk, Carbon Fiber, HIPS, PVA e impressoras diversas inclusive resina</td>
+	  <td>:heavy_check_mark:</td>
   </tr>
   <tr>
 	<td><a href="http://www.etechbrasil.com.br/">E.TECH Brasil(3DCloner)</a></td>
