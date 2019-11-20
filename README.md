@@ -183,7 +183,7 @@ Sumário
   </tr>
   <tr>
 	<td><a href="https://www.slim3d.com.br">Slim 3D</a></td>
-    <td>Joinville - SC</td>
+    <td>Curitiba - PR e Joinville - SC</td>
 	<td>ABS, PLA, PETG, Flexível(TPU), HIPS, PVA e impressora diversas inclusive resina</td>
 	  <td>Não informado</td>
   </tr>
