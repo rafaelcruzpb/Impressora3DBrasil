@@ -111,7 +111,6 @@ Sumário
 	<td>PLA, ABS(Premium, MG94), PETG, Wood, Flexível(TPU, PLA Flex), Solúvel(HIPS)</td>
 	<td>:heavy_check_mark:</td>
 	<td>Acima de R$ 400,00</td>
-	
 	<td><a href="https://www.mercadolivre.com.br/perfil/3D+LAB">3D Lab Mercado Livre</a></td>
 	
   </tr>
