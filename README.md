@@ -43,8 +43,9 @@ Sumário
 	<td><b>Cidade - Estado</td>
 	<td><b>Materiais</td>
 	<td><b>Com embalagem Zip Lock?</td>
-	<td><b> Frete Gratis</td>
+	<td><b>Frete Gratis</td>
 	<td><b>Loja Mercado Livre</td>
+	<td><b>Loja Shopee</td>
    <tr>
 	<td><a href="https://3d-itshop.com.br/">3D-It Shop</a></td>
     	<td>Itaquaquecetuba - SP</td>
@@ -395,7 +396,16 @@ Sumário
 	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>
-    <tr>
+  <tr>
+	<td><a href="https://www.filamentos.shop">filamentos.shop</a></td>
+    	<td>Rio do Sul - SC</td>
+	<td>ABS, ABS+, PLA, PLA+, PETG, FLEX,PLA Silk,etc</td>
+	<td>Não informado</td>
+	<td>Não Verificado ainda</td>
+	<td>Não Verificado ainda</td>
+	<td><a href="https://www.shopee.com.br/filamentos.shop">filamentos.shop</a></td>
+  </tr>
+  <tr>
 	<td><a href="https://www.funpro.com.br/impressao-3d">FUNPro(RBShopGP)</a></td>
     	<td>Criciúma - SC</td>
 	<td>ABS, PLA</td>
@@ -473,14 +483,6 @@ Sumário
    	<td>Santo André - SP</td>
 	<td>ABS, PLA, PETG, Flexível</td>
 	<td>:heavy_check_mark:</td>
-	<td>Não Verificado ainda</td>
-	<td>Não Verificado ainda</td>
-  </tr>
-  <tr>
-	<td><a href="https://zulgg.lojaintegrada.com.br/">Zulgg Tecnologias (eSun)</a></td>
-    	<td>São José dos Pinhais - PR</td>
-	<td>ABS+, PLA+, PETG, Solúvel(PVA), Wood</td>
-	<td>Não informado</td>
 	<td>Não Verificado ainda</td>
 	<td>Não Verificado ainda</td>
   </tr>
